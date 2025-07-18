@@ -10,13 +10,6 @@
     },
     {
         "lineas_afectadas": [
-            "Linea 4",
-            "Linea 6"
-        ],
-        "texto_alerta": "Por avería eléctrica, los tranvías pueden circular con retraso. Disculpen las molestias."
-    },
-    {
-        "lineas_afectadas": [
             "Línea 1"
         ],
         "texto_alerta": "Por obras, cerrado el tráfico ferroviario entre Masies y Bétera del 27 de junio al 31 de agosto.Servicio sustitutorio de autobús.Los horarios de salida de los autobuses están incorporados en la consulta de horarios ordinaria. Accede pulsando en este enlace"
