@@ -2,6 +2,13 @@
     {
         "lineas_afectadas": [
             "Linea 5",
+            "Linea 7"
+        ],
+        "texto_alerta": "ATENCIÓN L5 y L7: por problemas eléctricos circulación interrumpida entre Alameda y Aragó. Disculpen las molestias."
+    },
+    {
+        "lineas_afectadas": [
+            "Linea 5",
             "Linea 6",
             "Linea 7",
             "Linea 8"
