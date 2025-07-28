@@ -1,6 +1,12 @@
 [
     {
         "lineas_afectadas": [
+            "Linea 7"
+        ],
+        "texto_alerta": "A causa de un problema eléctrico, la circulación de trenes está interrumpida entre Bailén y Aragó"
+    },
+    {
+        "lineas_afectadas": [
             "Linea 3",
             "Linea 5",
             "Linea 7"
