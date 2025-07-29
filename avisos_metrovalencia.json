@@ -1,17 +1,9 @@
 [
     {
         "lineas_afectadas": [
-            "Línea 1"
+            "Linea 2"
         ],
-        "texto_alerta": "Tren circulando entre Castelló y Picasent. Viajeros otros destinos con medios alternativos."
-    },
-    {
-        "lineas_afectadas": [
-            "Línea 1",
-            "Linea 2",
-            "Linea 7"
-        ],
-        "texto_alerta": "Por avería eléctrica , circulación interrumpida entre Picanya y Castelló y entre Picanya y  Torrent Av."
+        "texto_alerta": "Trenes de L2 destino Valencia Sud, destinos posteriores transbordo a partir de la estación de Jesús. Y viajeros desde Torrent Av a Paiporta con destino posterior a Jesús tranbordo en esta estación"
     },
     {
         "lineas_afectadas": [
