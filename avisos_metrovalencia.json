@@ -1,6 +1,14 @@
 [
     {
         "lineas_afectadas": [
+            "Línea 1",
+            "Linea 2",
+            "Linea 7"
+        ],
+        "texto_alerta": "Por avería eléctrica , circulación interrumpida entre València Sud y Castelló y València Sud y Torrent Av."
+    },
+    {
+        "lineas_afectadas": [
             "Linea 5",
             "Linea 6",
             "Linea 7",
