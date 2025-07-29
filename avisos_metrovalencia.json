@@ -1,12 +1,6 @@
 [
     {
         "lineas_afectadas": [
-            "Linea 2"
-        ],
-        "texto_alerta": "Trenes de L2 destino Valencia Sud, destinos posteriores transbordo a partir de la estación de Jesús. Y viajeros desde Torrent Av a Paiporta con destino posterior a Jesús tranbordo en esta estación"
-    },
-    {
-        "lineas_afectadas": [
             "Línea 1",
             "Linea 2",
             "Linea 7"
