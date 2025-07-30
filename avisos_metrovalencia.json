@@ -30,6 +30,15 @@
         "texto_alerta": "Horarios de verano yVuelta del servicio nocturnoRecordamos que Metrovalencia aplica del 1 al 31 de agosto el horario de verano. En este periodo se utiliza el horario de días verdes de lunes a sábado para las líneas de metro y de color añil para la L10. Las líneas del tranvía no sufren modificaciones.🌝🌛 A partir del viernes 1 de agosto vuelve el servicio nocturno de viernes, sábados y vísperas de festivos.Consulta los horarios"
     },
     {
+        "lineas_afectadas": [
+            "Linea 3",
+            "Linea 5",
+            "Linea 7",
+            "Linea 9"
+        ],
+        "texto_alerta": "Fiesta de disfraces en Museros: Ampliación del servicio durante la noche del 2 al 3 de agosto. Consulta los horarios."
+    },
+    {
         "lineas_afectadas": [],
         "texto_alerta": "Nuevas tarifas y NUEVAS REDUCCIONES TEMPORALES de tarifas desde el 1 de julioConsulta lasnuevas tarifasConsulta lasNUEVAS REDUCCIONES TEMPORALES de tarifasválidas hasta el  31 de diciembreMóbilis14, título gratuito para uso entre los 10 y los 14 años válido hasta el 31 de diciembre. Se carga en una tarjeta personalizada Móbilis30.Móbilis30 / SUMA mensual Jove, título para uso entre 15 y 30 años con una reducción del 50%, válido hasta el 31 de diciembre. Se carga en una tarjeta personalizada Móbilis30.Documentos y requisitos para laobtención de la tarjeta personalizada Móbilis30. Pulsa en este enlace.¿Qué hago con mi Móbilis30 para aprovechar los descuentos?Si tienes una tarjeta personalizada Móbilis30 emitida antes del 30 de junio cargada con un título gratuito debes hacer un cambio de título, sigue estos pasos:1.- Ve a un punto de venta automática de FGV, a un punto de venta de la ATMV o descarga la APP SUMA.2.- Inserta la tarjeta y selecciona ‘Cambio de título’3.- Elige tu Móbilis: Mobilis14 o Móbilis30.4.- Si te corresponde utilizar la Móbilis30 (si tienes entre 15 y 30 años) abona el importe de la tarifa reducida."
     }
