@@ -28,14 +28,5 @@
             "Línea 10"
         ],
         "texto_alerta": "Horarios de verano yVuelta del servicio nocturnoRecordamos que Metrovalencia aplica del 1 al 31 de agosto el horario de verano. En este periodo se utiliza el horario de días verdes de lunes a sábado para las líneas de metro y de color añil para la L10. Las líneas del tranvía no sufren modificaciones.🌝🌛 A partir del viernes 1 de agosto vuelve el servicio nocturno de viernes, sábados y vísperas de festivos.Consulta los horarios"
-    },
-    {
-        "lineas_afectadas": [
-            "Linea 3",
-            "Linea 5",
-            "Linea 7",
-            "Linea 9"
-        ],
-        "texto_alerta": "Fiesta de disfraces en Museros: Ampliación del servicio durante la noche del 2 al 3 de agosto. Consulta los horarios."
     }
 ]
