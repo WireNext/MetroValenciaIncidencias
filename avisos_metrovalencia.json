@@ -13,20 +13,5 @@
             "Línea 1"
         ],
         "texto_alerta": "Por obras, cerrado el tráfico ferroviario entre Masies y Bétera del 27 de junio al 31 de agosto.Servicio sustitutorio de autobús.Los horarios de salida de los autobuses están incorporados en la consulta de horarios ordinaria. Accede pulsando en este enlace"
-    },
-    {
-        "lineas_afectadas": [
-            "Línea 1",
-            "Linea 2",
-            "Linea 3",
-            "Linea 4",
-            "Linea 5",
-            "Linea 6",
-            "Linea 7",
-            "Linea 8",
-            "Linea 9",
-            "Línea 10"
-        ],
-        "texto_alerta": "Horarios de verano yVuelta del servicio nocturnoRecordamos que Metrovalencia aplica del 1 al 31 de agosto el horario de verano. En este periodo se utiliza el horario de días verdes de lunes a sábado para las líneas de metro y de color añil para la L10. Las líneas del tranvía no sufren modificaciones.🌝🌛 A partir del viernes 1 de agosto vuelve el servicio nocturno de viernes, sábados y vísperas de festivos.Consulta los horarios"
     }
 ]
