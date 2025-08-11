@@ -18,6 +18,12 @@
         "lineas_afectadas": [
             "Línea 1"
         ],
+        "texto_alerta": "Los trenes pueden circular con retraso. Sentimos las molestias"
+    },
+    {
+        "lineas_afectadas": [
+            "Línea 1"
+        ],
         "texto_alerta": "Fiestas de Bétera: Durante los días 15, 16, 17 y 18 de agosto, se amplía el servicio ferroviario de L1 y se ofrece servicio especial de autobús en el tramo en obras, con parada en Masíes y en Bétera. Consulta los horarios desde este enlace."
     },
     {
