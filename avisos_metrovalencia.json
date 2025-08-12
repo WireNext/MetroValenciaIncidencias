@@ -1,6 +1,12 @@
 [
     {
         "lineas_afectadas": [
+            "Linea 4"
+        ],
+        "texto_alerta": "Circulación interrumpida entre Pont de Fusta y Beteró por interceptación de la vía por un vehículo"
+    },
+    {
+        "lineas_afectadas": [
             "Linea 5",
             "Linea 6",
             "Linea 7",
@@ -13,6 +19,12 @@
             "Línea 1"
         ],
         "texto_alerta": "Por obras, cerrado el tráfico ferroviario entre Masies y Bétera del 27 de junio al 31 de agosto.Servicio sustitutorio de autobús.Los horarios de salida de los autobuses están incorporados en la consulta de horarios ordinaria. Accede pulsando en este enlace"
+    },
+    {
+        "lineas_afectadas": [
+            "Linea 6"
+        ],
+        "texto_alerta": "Circulación interrumpida entre Tossal del Rei y Beteró por interceptación de la vía por un vehículo."
     },
     {
         "lineas_afectadas": [
