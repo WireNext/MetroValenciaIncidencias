@@ -16,12 +16,6 @@
     },
     {
         "lineas_afectadas": [
-            "Linea 6"
-        ],
-        "texto_alerta": "Tranvía a Marítim con hora de paso por Beteró 00:01 h no circulará. Disculpen las molestias."
-    },
-    {
-        "lineas_afectadas": [
             "Linea 8"
         ],
         "texto_alerta": "Suprimidos algunos tranvías de la noche del viernes. Último tranvía a Neptú saldrá de Marítim a las 23:55 h. Último tranvía a Marítim saldrá de Neptú a las 00:05 h. Disculpen las molestias."
