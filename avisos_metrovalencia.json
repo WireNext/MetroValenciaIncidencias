@@ -1,6 +1,12 @@
 [
     {
         "lineas_afectadas": [
+            "Linea 8"
+        ],
+        "texto_alerta": "Interrumpida la circulación de los tranvías de L8. Disculpen las molestias."
+    },
+    {
+        "lineas_afectadas": [
             "Linea 5",
             "Linea 6",
             "Linea 7",
@@ -13,12 +19,6 @@
             "Línea 1"
         ],
         "texto_alerta": "Por obras, cerrado el tráfico ferroviario entre Masies y Bétera del 27 de junio al 31 de agosto.Servicio sustitutorio de autobús.Los horarios de salida de los autobuses están incorporados en la consulta de horarios ordinaria. Accede pulsando en este enlace"
-    },
-    {
-        "lineas_afectadas": [
-            "Linea 8"
-        ],
-        "texto_alerta": "Último tranvía a Neptú saldrá de Marítim a las 22:44h. Último tranvía a Marítim saldrá de Neptú a las 22:53. Disculpen las molestias."
     },
     {
         "lineas_afectadas": [],
