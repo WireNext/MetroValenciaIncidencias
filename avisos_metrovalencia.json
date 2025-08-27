@@ -1,6 +1,13 @@
 [
     {
         "lineas_afectadas": [
+            "Linea 4",
+            "Linea 6"
+        ],
+        "texto_alerta": "AVÍS L4, L6: Circulació interrompuda entre Tarongers Ernest Lluch i Pont de Fusta per vehicle interceptant la via."
+    },
+    {
+        "lineas_afectadas": [
             "Linea 5",
             "Linea 6",
             "Linea 7",
