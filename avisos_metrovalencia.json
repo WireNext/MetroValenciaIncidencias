@@ -1,12 +1,6 @@
 [
     {
         "lineas_afectadas": [
-            "Línea 1"
-        ],
-        "texto_alerta": "Debido a un incendio, interrumpida la circulación entre Castelló y L' Alcúdia. Disculpen las molestias."
-    },
-    {
-        "lineas_afectadas": [
             "Linea 5",
             "Linea 6",
             "Linea 7",
