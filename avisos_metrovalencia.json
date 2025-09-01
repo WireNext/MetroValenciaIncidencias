@@ -1,6 +1,12 @@
 [
     {
         "lineas_afectadas": [
+            "Linea 3"
+        ],
+        "texto_alerta": "Por avería de un Paso a Nivel, se están produciendo retrasos en la Línea 3. Disculpen las molestias."
+    },
+    {
+        "lineas_afectadas": [
             "Línea 1"
         ],
         "texto_alerta": "Aviso L1. Por avería eléctrica los trenes de L1 circulan con retraso."
