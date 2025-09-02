@@ -1,6 +1,18 @@
 [
     {
         "lineas_afectadas": [
+            "Linea 7"
+        ],
+        "texto_alerta": "Aviso L7. Por avería eléctrica los trenes de L7 circulan con retraso."
+    },
+    {
+        "lineas_afectadas": [
+            "Línea 1"
+        ],
+        "texto_alerta": "Aviso L1. Por avería eléctrica los trenes de L1 circulan con retraso."
+    },
+    {
+        "lineas_afectadas": [
             "Linea 3"
         ],
         "texto_alerta": "Los trenes pueden circular con retraso. Sentimos las molestias"
