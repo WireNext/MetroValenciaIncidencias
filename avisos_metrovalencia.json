@@ -2,8 +2,7 @@
     {
         "lineas_afectadas": [
             "Línea 1",
-            "Linea 2",
-            "Linea 7"
+            "Linea 2"
         ],
         "texto_alerta": "Los trenes pueden circular con retraso. Disculpen las molestias."
     },
