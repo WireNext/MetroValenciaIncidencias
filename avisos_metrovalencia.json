@@ -16,6 +16,12 @@
     },
     {
         "lineas_afectadas": [
+            "Línea 10"
+        ],
+        "texto_alerta": "Los tranvías pueden circular con retraso. Disculpen las molestias."
+    },
+    {
+        "lineas_afectadas": [
             "Linea 3"
         ],
         "texto_alerta": "Noche de disfraces de Rafelbunyol:Con motivo de este evento, reforzamos el servicio nocturno de la noche del viernes 5 al 6 de septiembre, consulta los horarios."
