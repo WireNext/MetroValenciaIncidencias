@@ -17,13 +17,6 @@
     {
         "lineas_afectadas": [
             "Línea 1",
-            "Linea 2"
-        ],
-        "texto_alerta": "Los trenes pueden circular con retraso. Disculpen las molestias."
-    },
-    {
-        "lineas_afectadas": [
-            "Línea 1",
             "Linea 5",
             "Linea 6",
             "Linea 7",
