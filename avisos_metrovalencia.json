@@ -1,6 +1,20 @@
 [
     {
         "lineas_afectadas": [
+            "Linea 7"
+        ],
+        "texto_alerta": "Estación de Bailén fuera de servicio. Estaciones más próximas Xàtiva y Pza Espanya ."
+    },
+    {
+        "lineas_afectadas": [
+            "Línea 1",
+            "Linea 2",
+            "Linea 7"
+        ],
+        "texto_alerta": "Por avería eléctrica, está interrumpida la circulación entre Valencia Sud y Castelló. Disculpen las molestias."
+    },
+    {
+        "lineas_afectadas": [
             "Línea 1",
             "Linea 5",
             "Linea 6",
