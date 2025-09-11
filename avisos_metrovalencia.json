@@ -3,7 +3,22 @@
         "lineas_afectadas": [
             "Linea 5"
         ],
-        "texto_alerta": "Aviso L5: Los trenes de L5 no circulan. Resto de líneas circulan con normalidad"
+        "texto_alerta": "Aviso L5: Por avería eléctrica, los trenes de L5 no circulan."
+    },
+    {
+        "lineas_afectadas": [
+            "Línea 1",
+            "Linea 7",
+            "Linea 2"
+        ],
+        "texto_alerta": "Por avería eléctrica, los trenes pueden circular con retraso."
+    },
+    {
+        "lineas_afectadas": [
+            "Linea 3",
+            "Linea 9"
+        ],
+        "texto_alerta": "Por avería eléctrica, los trenes de L3 y L9 pueden circular con retraso. Disculpen las molestias."
     },
     {
         "lineas_afectadas": [],
