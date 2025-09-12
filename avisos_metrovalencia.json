@@ -2,15 +2,6 @@
     {
         "lineas_afectadas": [
             "Línea 1",
-            "Linea 2",
-            "Linea 7",
-            "Linea 9"
-        ],
-        "texto_alerta": "Por avería eléctrica, los trenes pueden circular con retraso."
-    },
-    {
-        "lineas_afectadas": [
-            "Línea 1",
             "Linea 2"
         ],
         "texto_alerta": "Obras de accesibilidad en PicanyaPor obras,desde las 22:50 horas del viernes día 12 hasta las 5:50 horas del lunes día 15, los trenes con destino Torrent y Torrent Avinguda de la L1 y L2 finalizan en València Sud.Para destinos entre València Sud y Torrent Avinguda se debe transbordar en Safranar a la L7.Los trenes de L1 con destinó Castelló, l’Alcúdia o Picassent seguirán circulando con normalidad, al igual que los trenes de la L7 (Marítim-Torrent Avinguda). Consulta los horarios próximamente."
