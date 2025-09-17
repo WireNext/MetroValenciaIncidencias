@@ -1,13 +1,6 @@
 [
     {
         "lineas_afectadas": [
-            "Línea 1",
-            "Linea 2"
-        ],
-        "texto_alerta": "Aviso L1/2: Por avería eléctrica en València Sud los trenes de L1/2 pueden circular con retraso."
-    },
-    {
-        "lineas_afectadas": [
             "Línea 1"
         ],
         "texto_alerta": "Los trenes pueden circular con retraso. Sentimos las molestias"
