@@ -9,13 +9,6 @@
     },
     {
         "lineas_afectadas": [
-            "Linea 4",
-            "Linea 6"
-        ],
-        "texto_alerta": "Retrasos generalizados en L4 y L6"
-    },
-    {
-        "lineas_afectadas": [
             "Linea 4"
         ],
         "texto_alerta": "Servicio a Fira València el sábado 20 de septiembre. Consulta los horarios."
