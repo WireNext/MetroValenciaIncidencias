@@ -1,14 +1,6 @@
 [
     {
         "lineas_afectadas": [
-            "Linea 4",
-            "Linea 6",
-            "Linea 8"
-        ],
-        "texto_alerta": "Por realización de pruebas de los enclavamientos, se modifica el servicio de las líneas L4, L6 y L8 la noche del sábado 20 y la mañana del domingo 21 de septiembre. Consulta los horarios."
-    },
-    {
-        "lineas_afectadas": [
             "Línea 1",
             "Linea 2",
             "Linea 3",
