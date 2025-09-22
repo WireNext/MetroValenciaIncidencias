@@ -7,18 +7,6 @@
     },
     {
         "lineas_afectadas": [
-            "Linea 8"
-        ],
-        "texto_alerta": "Interrumpida la circulación de los tranvías de L8. Disculpen las molestias."
-    },
-    {
-        "lineas_afectadas": [
-            "Linea 4"
-        ],
-        "texto_alerta": "Por avería, los tranvías pueden circular con retraso. Disculpen las molestias."
-    },
-    {
-        "lineas_afectadas": [
             "Línea 1",
             "Linea 2",
             "Linea 3",
