@@ -1,6 +1,16 @@
 [
     {
         "lineas_afectadas": [
+            "Línea 1",
+            "Linea 2",
+            "Linea 3",
+            "Linea 7",
+            "Linea 9"
+        ],
+        "texto_alerta": "Los trenes circulan con unos minutos de retraso."
+    },
+    {
+        "lineas_afectadas": [
             "Linea 3"
         ],
         "texto_alerta": "Por avería eléctrica, entre Rafelbunyol y Museros se realiza transbordo en autobús"
