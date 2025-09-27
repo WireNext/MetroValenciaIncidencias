@@ -2,13 +2,6 @@
     {
         "lineas_afectadas": [
             "Línea 1",
-            "Linea 2"
-        ],
-        "texto_alerta": "Aviso L1/2:Por vÍa interceptada, retrasos."
-    },
-    {
-        "lineas_afectadas": [
-            "Línea 1",
             "Linea 2",
             "Linea 3",
             "Linea 4",
