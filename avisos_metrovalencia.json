@@ -2,21 +2,6 @@
     {
         "lineas_afectadas": [
             "Línea 1",
-            "Línea 10",
-            "Linea 2",
-            "Linea 3",
-            "Linea 4",
-            "Linea 5",
-            "Linea 6",
-            "Linea 7",
-            "Linea 8",
-            "Linea 9"
-        ],
-        "texto_alerta": "POR ALERTA ROJA, EL LUNES 29 DE SEPTIEMBRE SE APLICA HORARIO DE SABADO EN TODAS LAS LINEAS DE METRO Y TRANVIA. SI TIENES QUE DESPLAZARTE, INFORMATE CON ANTELACIÓN A TRAVES DE LOS CANALES OFICIALES."
-    },
-    {
-        "lineas_afectadas": [
-            "Línea 1",
             "Linea 2",
             "Linea 3",
             "Linea 4",
