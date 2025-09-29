@@ -1,15 +1,9 @@
 [
     {
         "lineas_afectadas": [
-            "Linea 2"
-        ],
-        "texto_alerta": "A causa de las lluvias, está interrumpida la circulación entre Paterna y Lliria."
-    },
-    {
-        "lineas_afectadas": [
             "Línea 1"
         ],
-        "texto_alerta": "A causa de las lluvias la circulación de L1 está interrumpida entre Empalme y Bétera"
+        "texto_alerta": "A causa de las lluvias la circulación de L1 está interrumpida entre Empalme y Bétera. Servicio sustitutorio en autobús."
     },
     {
         "lineas_afectadas": [
