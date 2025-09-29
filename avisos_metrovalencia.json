@@ -1,6 +1,12 @@
 [
     {
         "lineas_afectadas": [
+            "Linea 2"
+        ],
+        "texto_alerta": "La circulación está interrumpida entre Santa Rita y Llíria."
+    },
+    {
+        "lineas_afectadas": [
             "Línea 1",
             "Línea 10",
             "Linea 2",
