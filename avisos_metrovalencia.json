@@ -1,5 +1,9 @@
 [
     {
+        "lineas_afectadas": [],
+        "texto_alerta": "EL MARTES 30 DE SEPTIEMBRE, LAS LÍNEAS DE METRO Y TRANVÍA CIRCULARAN EN HORARIO HABITUAL. SI NECESITAS DESPLAZARTE, INFORMATE CON ANTELACIÓN A TRAVES DE LOS CANALES OFICIALES."
+    },
+    {
         "lineas_afectadas": [
             "Línea 1",
             "Línea 10",
