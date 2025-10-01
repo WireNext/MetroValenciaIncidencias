@@ -1,8 +1,7 @@
 [
     {
         "lineas_afectadas": [
-            "Línea 1",
-            "Linea 2"
+            "Línea 1"
         ],
         "texto_alerta": "Los trenes circulan con retraso."
     },
