@@ -1,6 +1,12 @@
 [
     {
         "lineas_afectadas": [
+            "Linea 4"
+        ],
+        "texto_alerta": "Los tranvías circulan con retraso. Disculpen las molestias."
+    },
+    {
+        "lineas_afectadas": [
             "Línea 1"
         ],
         "texto_alerta": "Por problemas técnicos los trenes de L1 circulan con retraso. Disculpen las molestias."
