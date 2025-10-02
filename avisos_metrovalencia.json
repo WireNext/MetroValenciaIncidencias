@@ -9,14 +9,6 @@
     },
     {
         "lineas_afectadas": [
-            "Linea 3",
-            "Linea 5",
-            "Linea 9"
-        ],
-        "texto_alerta": "Los trenes de L3, L5 y L9 circulan con retraso. Disculpen las molestias."
-    },
-    {
-        "lineas_afectadas": [
             "Línea 1",
             "Linea 2",
             "Linea 3",
