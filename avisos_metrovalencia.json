@@ -1,6 +1,14 @@
 [
     {
         "lineas_afectadas": [
+            "Linea 4",
+            "Linea 6",
+            "Linea 8"
+        ],
+        "texto_alerta": "Por renovación de los sistemas de señalización y comunicaciones, modificación del servicio del tranvía el viernes 3 y sábado 4 de octubreCon motivo de la puesta en servicio de los nuevos enclavamientos de las líneas L4, L6 y L8, la circulación de los tranvías sufrirá los siguientes cambios:– Viernes 3 de octubre: El servicio regular de L4, L6 y L8 finalizará a las 23:50 horas y se suprimirá el servicio nocturno.–Sábado 4de octubre: Sin servicio en L4, L6 y L8.Los tranvías circularán sin viajerosdurante toda la jornada. Sin servicio nocturno.La L10 circulará con normalidad."
+    },
+    {
+        "lineas_afectadas": [
             "Línea 1",
             "Linea 2",
             "Linea 3",
