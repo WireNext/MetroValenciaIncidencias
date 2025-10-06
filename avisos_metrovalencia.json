@@ -2,10 +2,15 @@
     {
         "lineas_afectadas": [
             "Linea 4",
-            "Linea 6",
-            "Linea 8"
+            "Linea 6"
         ],
         "texto_alerta": "Los tranvías circulan con retraso. Disculpen las molestias."
+    },
+    {
+        "lineas_afectadas": [
+            "Linea 8"
+        ],
+        "texto_alerta": "Interrumpida la circulación de los tranvías de L8. Disculpen las molestias."
     },
     {
         "lineas_afectadas": [
