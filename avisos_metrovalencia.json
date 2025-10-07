@@ -1,6 +1,13 @@
 [
     {
         "lineas_afectadas": [
+            "Linea 3",
+            "Línea 10"
+        ],
+        "texto_alerta": "Festividad del Nou d’Octubre: Metrovalencia refuerza el servicio nocturno ordinario de vísperas de festivo delmiércoles día 8en la L3 y en la L10, con motivo delCastillo de Fuegos artificiales que se ofrecerá en el Puente de Monteolivete.Consulta los horarios."
+    },
+    {
+        "lineas_afectadas": [
             "Línea 1",
             "Linea 2",
             "Linea 3",
