@@ -8,6 +8,12 @@
     },
     {
         "lineas_afectadas": [
+            "Línea 10"
+        ],
+        "texto_alerta": "Los tranvías pueden circular con retraso. Disculpen las molestias."
+    },
+    {
+        "lineas_afectadas": [
             "Linea 3",
             "Línea 10"
         ],
