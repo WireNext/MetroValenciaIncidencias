@@ -1,9 +1,10 @@
 [
     {
         "lineas_afectadas": [
-            "Linea 4"
+            "Linea 4",
+            "Linea 6"
         ],
-        "texto_alerta": "A causa de las lluvias, está interrumpida la circulación entre Tarongers y Dr. Lluch"
+        "texto_alerta": "A causa de las lluvias, está interrumpida la circulación entre Tarongers y La Cadena"
     },
     {
         "lineas_afectadas": [
