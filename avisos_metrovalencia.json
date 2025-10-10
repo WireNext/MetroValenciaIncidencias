@@ -1,13 +1,6 @@
 [
     {
         "lineas_afectadas": [
-            "Linea 4",
-            "Linea 6"
-        ],
-        "texto_alerta": "A causa de las lluvias, está interrumpida la circulación entre Tarongers y La Cadena"
-    },
-    {
-        "lineas_afectadas": [
             "Línea 1"
         ],
         "texto_alerta": "A causa de la lluvia, interrumpida la circulación entre Castelló y L' Alcúdia. Servicio bus entre L'Alcúdia, Alberic y Castelló. Disculpen las molestias."
