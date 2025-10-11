@@ -1,6 +1,12 @@
 [
     {
         "lineas_afectadas": [
+            "Linea 2"
+        ],
+        "texto_alerta": "Por vía interceptada, está interrumpida la circulación entre Paterna y Llíria"
+    },
+    {
+        "lineas_afectadas": [
             "Linea 6"
         ],
         "texto_alerta": "Debido a las lluvias, los tranvías circulan con retraso."
@@ -9,14 +15,7 @@
         "lineas_afectadas": [
             "Línea 1"
         ],
-        "texto_alerta": "A causa de las lluvias, está interrumpida la circulación entre Torrent y Castelló"
-    },
-    {
-        "lineas_afectadas": [
-            "Línea 1",
-            "Linea 2"
-        ],
-        "texto_alerta": "A causa de las lluvias, los trenes circulan con retraso."
+        "texto_alerta": "A causa de las lluvias, está interrumpida la circulación entre Torrent y Castelló. Servicio sustiturio de autobús con paradas en Picassent, Alginet, Carlet, L'Alcúdia, Alberic y Castello."
     },
     {
         "lineas_afectadas": [
