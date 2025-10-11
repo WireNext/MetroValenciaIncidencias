@@ -1,12 +1,6 @@
 [
     {
         "lineas_afectadas": [
-            "Linea 2"
-        ],
-        "texto_alerta": "Por vía interceptada, está interrumpida la circulación entre Paterna y Llíria. Servicio sustitutorio de autobús con paradas en Paterna, la Canyada, L´Eliana, Benaguasil y Llíria"
-    },
-    {
-        "lineas_afectadas": [
             "Linea 6",
             "Linea 4"
         ],
@@ -15,6 +9,7 @@
     {
         "lineas_afectadas": [
             "Línea 1",
+            "Linea 2",
             "Linea 7"
         ],
         "texto_alerta": "A causa de las lluvias, los trenes circulan con retraso."
