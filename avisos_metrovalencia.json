@@ -1,17 +1,23 @@
 [
     {
         "lineas_afectadas": [
-            "Línea 1"
-        ],
-        "texto_alerta": "Por lluvias interrumpida la circulación entre Picassent y Alginet."
-    },
-    {
-        "lineas_afectadas": [
             "Línea 1",
             "Linea 2",
             "Linea 7"
         ],
         "texto_alerta": "A causa de las lluvias, los trenes circulan con retraso."
+    },
+    {
+        "lineas_afectadas": [
+            "Línea 1"
+        ],
+        "texto_alerta": "A causa de las lluvias, está interrumpida la circulación entre Empalme y Bétera"
+    },
+    {
+        "lineas_afectadas": [
+            "Linea 2"
+        ],
+        "texto_alerta": "Per pluges, la circulación está interrumpida entre Paterna y Llíria."
     },
     {
         "lineas_afectadas": [
