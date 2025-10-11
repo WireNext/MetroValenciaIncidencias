@@ -7,6 +7,12 @@
     },
     {
         "lineas_afectadas": [
+            "Línea 1"
+        ],
+        "texto_alerta": "A causa de las lluvias, está interrumpida la circulación entre Torrent y Picassent"
+    },
+    {
+        "lineas_afectadas": [
             "Línea 1",
             "Linea 2"
         ],
