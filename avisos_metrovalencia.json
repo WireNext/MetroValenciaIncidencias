@@ -2,6 +2,13 @@
     {
         "lineas_afectadas": [
             "Línea 1",
+            "Linea 2"
+        ],
+        "texto_alerta": "A causa de las lluvias, los trenes circulan con retraso."
+    },
+    {
+        "lineas_afectadas": [
+            "Línea 1",
             "Linea 2",
             "Linea 3",
             "Linea 4",
