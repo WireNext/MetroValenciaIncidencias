@@ -1,6 +1,12 @@
 [
     {
         "lineas_afectadas": [
+            "Linea 6"
+        ],
+        "texto_alerta": "Debido a las lluvias, los tranvías circulan con retraso."
+    },
+    {
+        "lineas_afectadas": [
             "Línea 1"
         ],
         "texto_alerta": "A causa de las lluvias, está interrumpida la circulación entre Empalme y Bétera"
