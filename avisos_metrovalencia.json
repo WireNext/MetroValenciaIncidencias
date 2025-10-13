@@ -25,7 +25,7 @@
             "Linea 6",
             "Linea 8"
         ],
-        "texto_alerta": "Por accidente,  Interrumpida la circulación entre Tarongers y Dr. Lluch , Tarongers y Marítim y Neptú y Marítim. El resto de trayectos circulan con retraso. Disculpen las molestias."
+        "texto_alerta": "Los tranvías circulan con retraso. Disculpen las molestias."
     },
     {
         "lineas_afectadas": [
@@ -41,6 +41,12 @@
             "Línea 10"
         ],
         "texto_alerta": "NORMATIVA DE BICICLETASDesde el 1 de octubre queda autorizado el acceso de bicicletas no eléctricas a las instalaciones, dependencias y unidades de Ferrocarrils de la Generalitat Valenciana en la red de Metrovalencia.Se permite el acceso y transporte de bicicletas no eléctricas plegables en toda la red de Metrovalencia, quedando prohibido el de cualquier bicicleta que no reúna esas características.Consulta la nueva normativa pulsando en este enlace."
+    },
+    {
+        "lineas_afectadas": [
+            "Linea 4"
+        ],
+        "texto_alerta": "Servicio a Fira València del 14 al 19 de octubre. Consulta los horarios."
     },
     {
         "lineas_afectadas": [],
