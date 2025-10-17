@@ -1,6 +1,20 @@
 [
     {
         "lineas_afectadas": [
+            "Linea 3",
+            "Linea 5",
+            "Linea 9"
+        ],
+        "texto_alerta": "Estación de Manises: Con motivo de los eventos pirotécnicos que se van a celebrar los días 17 y 18 de octubre en la población de Manises, la estación de metro de Manises permanecerá cerrada en las siguientes franjas horarias:– Viernes 17: Desde las 23:15 a las 00:10 de la madrugada del sábado día 18.– Sábado 18: Desde las 23:50 a las 00:40 de la madrugada del domingo día 19.Durante estas franjas horarias los trenes no efectuarán parada en Manises. Recomendamos las estaciones de Salt de l´Aigua o Roses como destino alternativo."
+    },
+    {
+        "lineas_afectadas": [
+            "Linea 4"
+        ],
+        "texto_alerta": "Servicio a Fira València del 14 al 19 de octubre. Consulta los horarios."
+    },
+    {
+        "lineas_afectadas": [
             "Línea 1",
             "Linea 2",
             "Linea 3",
@@ -13,12 +27,6 @@
             "Línea 10"
         ],
         "texto_alerta": "NORMATIVA DE BICICLETASDesde el 1 de octubre queda autorizado el acceso de bicicletas no eléctricas a las instalaciones, dependencias y unidades de Ferrocarrils de la Generalitat Valenciana en la red de Metrovalencia.Se permite el acceso y transporte de bicicletas no eléctricas plegables en toda la red de Metrovalencia, quedando prohibido el de cualquier bicicleta que no reúna esas características.Consulta la nueva normativa pulsando en este enlace."
-    },
-    {
-        "lineas_afectadas": [
-            "Linea 4"
-        ],
-        "texto_alerta": "Servicio a Fira València del 14 al 19 de octubre. Consulta los horarios."
     },
     {
         "lineas_afectadas": [],
