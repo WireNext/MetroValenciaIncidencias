@@ -1,12 +1,6 @@
 [
     {
         "lineas_afectadas": [
-            "Linea 4"
-        ],
-        "texto_alerta": "Servicio a Fira València del 14 al 19 de octubre. Consulta los horarios."
-    },
-    {
-        "lineas_afectadas": [
             "Línea 1",
             "Linea 2",
             "Linea 3",
