@@ -1,6 +1,12 @@
 [
     {
         "lineas_afectadas": [
+            "Línea 1"
+        ],
+        "texto_alerta": "Por avería eléctrica interrumpida circulación entre Seminari y Bétera."
+    },
+    {
+        "lineas_afectadas": [
             "Linea 4",
             "Linea 6"
         ],
