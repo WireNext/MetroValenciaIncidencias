@@ -2,8 +2,7 @@
     {
         "lineas_afectadas": [
             "Linea 4",
-            "Linea 6",
-            "Línea 10"
+            "Linea 6"
         ],
         "texto_alerta": "Los tranvías circulan con retraso."
     },
