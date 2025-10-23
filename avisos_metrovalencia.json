@@ -7,6 +7,13 @@
     },
     {
         "lineas_afectadas": [
+            "Linea 4",
+            "Linea 6"
+        ],
+        "texto_alerta": "34 Medio Maratón de València: 🏃‍♀️ Domingo 26 de octubre🏃‍♂️ Se amplía el servicio de metro a primera hora y se interrumpe el  servicio de tranvías entre 🚊 Doctor Lluch ↔ Pont de Fusta, de 6:40 a 12:00 🚊 y entre  Marítim ↔ Tossal del Rei, sin servicio hasta las 12:00. 📌 Consulta los horarios."
+    },
+    {
+        "lineas_afectadas": [
             "Línea 1",
             "Linea 2",
             "Linea 3",
