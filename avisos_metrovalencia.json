@@ -3,12 +3,6 @@
         "lineas_afectadas": [
             "Linea 4"
         ],
-        "texto_alerta": "Los tranvías circulan con retraso. Disculpen las molestias."
-    },
-    {
-        "lineas_afectadas": [
-            "Linea 4"
-        ],
         "texto_alerta": "Servicio a Fira València del 22 al 28 de octubre. Consulta los horarios."
     },
     {
