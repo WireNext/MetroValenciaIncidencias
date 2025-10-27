@@ -1,12 +1,6 @@
 [
     {
         "lineas_afectadas": [
-            "Línea 1"
-        ],
-        "texto_alerta": "prueba navilens"
-    },
-    {
-        "lineas_afectadas": [
             "Linea 4"
         ],
         "texto_alerta": "Servicio a Fira València del 22 al 28 de octubre. Consulta los horarios."
