@@ -7,6 +7,10 @@
         "texto_alerta": "Los tranvías circulan con retraso. Disculpen las molestias."
     },
     {
+        "lineas_afectadas": [],
+        "texto_alerta": "Halloween, servicio nocturno la noche del 31 de octubre. Consulta los horarios."
+    },
+    {
         "lineas_afectadas": [
             "Linea 4"
         ],
