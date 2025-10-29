@@ -1,12 +1,5 @@
 [
     {
-        "lineas_afectadas": [
-            "Linea 4",
-            "Linea 6"
-        ],
-        "texto_alerta": "Los tranvías de L4/6 circulan con retraso."
-    },
-    {
         "lineas_afectadas": [],
         "texto_alerta": "Halloween, servicio nocturno la noche del 31 de octubre. Consulta los horarios."
     },
