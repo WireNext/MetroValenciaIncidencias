@@ -1,17 +1,5 @@
 [
     {
-        "lineas_afectadas": [
-            "Linea 6"
-        ],
-        "texto_alerta": "Tranvía a Tossal del Rei con salida de Marítim 23:45 finaliza trayecto en Dr Lluch. Tranvía a Marítim con salida de Tossal del Rei 00:17 no circulará. Disculpen las molestias."
-    },
-    {
-        "lineas_afectadas": [
-            "Linea 8"
-        ],
-        "texto_alerta": "Suprimidos algunos tranvías de la noche del viernes. Último tranvía a Neptú saldrá de Marítim a las 00:35  h. Último tranvía a Marítim saldrá de Neptú a las 00:45 h. Disculpen las molestias."
-    },
-    {
         "lineas_afectadas": [],
         "texto_alerta": "Halloween, servicio nocturno la noche del 31 de octubre. Consulta los horarios."
     },
