@@ -3,6 +3,12 @@
         "lineas_afectadas": [
             "Linea 4"
         ],
+        "texto_alerta": "Los tranvías pueden circular con retraso. Disculpen las molestias."
+    },
+    {
+        "lineas_afectadas": [
+            "Linea 4"
+        ],
         "texto_alerta": "Servicio a Fira València del 4 al 6 de noviembre. Consulta los horarios."
     },
     {
