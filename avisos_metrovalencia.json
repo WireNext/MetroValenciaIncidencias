@@ -1,12 +1,6 @@
 [
     {
         "lineas_afectadas": [
-            "Línea 1"
-        ],
-        "texto_alerta": "Aviso L1. Los trenes pueden circular con retraso."
-    },
-    {
-        "lineas_afectadas": [
             "Linea 4"
         ],
         "texto_alerta": "Servicio a Fira València del 4 al 6 de noviembre. Consulta los horarios."
