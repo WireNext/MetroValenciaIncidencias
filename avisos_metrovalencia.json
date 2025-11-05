@@ -1,14 +1,6 @@
 [
     {
         "lineas_afectadas": [
-            "Linea 4",
-            "Linea 6",
-            "Linea 8"
-        ],
-        "texto_alerta": "Retrasos generalizados en L4, L6 y L8"
-    },
-    {
-        "lineas_afectadas": [
             "Linea 4"
         ],
         "texto_alerta": "Servicio a Fira València del 4 al 6 de noviembre. Consulta los horarios."
