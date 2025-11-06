@@ -1,10 +1,9 @@
 [
     {
         "lineas_afectadas": [
-            "Linea 4",
-            "Linea 6"
+            "Línea 1"
         ],
-        "texto_alerta": "ATENCIÓN: Los tranvías pueden circular con retraso. Disculpen las molestias."
+        "texto_alerta": "Aviso L1. Por avería eléctrica los trenes de L1 circulan con retraso."
     },
     {
         "lineas_afectadas": [
