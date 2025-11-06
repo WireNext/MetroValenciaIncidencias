@@ -7,6 +7,13 @@
     },
     {
         "lineas_afectadas": [
+            "Linea 5",
+            "Linea 7"
+        ],
+        "texto_alerta": "A causa de tren averiado, los trenes de L5/L7 realizarán su salida desde la VÍA 1 en la estación de MARÍTIM"
+    },
+    {
+        "lineas_afectadas": [
             "Línea 1",
             "Linea 2",
             "Linea 7"
