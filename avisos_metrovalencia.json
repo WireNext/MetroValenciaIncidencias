@@ -2,7 +2,8 @@
     {
         "lineas_afectadas": [
             "Linea 2",
-            "Linea 7"
+            "Linea 7",
+            "Línea 1"
         ],
         "texto_alerta": "Por avería eléctrica los trenes circulan con retraso. Disculpen las molestias."
     },
