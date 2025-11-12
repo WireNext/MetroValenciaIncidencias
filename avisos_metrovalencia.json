@@ -1,6 +1,12 @@
 [
     {
         "lineas_afectadas": [
+            "Línea 1"
+        ],
+        "texto_alerta": "Los trenes pueden circular con retraso. Disculpen las molestias."
+    },
+    {
+        "lineas_afectadas": [
             "Línea 10"
         ],
         "texto_alerta": "Acceso a la estación de Alacant por la calle Segorbe, cerrado por obras.Por obras, el acceso a la estación de Alacant por la calle Segorbe permanecerá cerradoa partir del 11 de noviembre.Acceso por la Gran vía Germanías esquina calle Alicante."
