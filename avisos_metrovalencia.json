@@ -2,6 +2,14 @@
     {
         "lineas_afectadas": [
             "Linea 4",
+            "Linea 6",
+            "Linea 8"
+        ],
+        "texto_alerta": "Por obras, se modifica el servicio en el tranvíaPor obras de renovación de vía, del 17 de noviembre al 5 de diciembre quedan sin servicio los tramos del tranvía situados entre las paradas de Beteró – Dr. Lluch/Marítim y entre las paradas de Marítim – Neptú.Por lo tanto, desde el lunes 17 de noviembre los tranvías de L4 y L6 circularán entre las siguientes paradas:– L4: MAS DEL ROSARI – TARONGERS ERNEST LLUCH– L4: LLOMA LLARGA TERRAMELAR – TARONGERS ERNEST LLUCH– L4: V. A. ESTELLÉS – TARONGERS ERNEST LLUCH– L6: TOSSAL DEL REI – Beteró– L8: Sin servicioConsulta los horarios"
+    },
+    {
+        "lineas_afectadas": [
+            "Linea 4",
             "Linea 6"
         ],
         "texto_alerta": "Los tranvias pueden circular con retraso, Disculpen las molestias."
