@@ -9,6 +9,13 @@
     },
     {
         "lineas_afectadas": [
+            "Linea 4",
+            "Linea 6"
+        ],
+        "texto_alerta": "Retrasos generalizados."
+    },
+    {
+        "lineas_afectadas": [
             "Línea 1",
             "Linea 2",
             "Linea 7"
