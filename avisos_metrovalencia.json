@@ -11,20 +11,6 @@
         "lineas_afectadas": [
             "Linea 4"
         ],
-        "texto_alerta": "Retrasos generalizados."
-    },
-    {
-        "lineas_afectadas": [
-            "Línea 1",
-            "Linea 2",
-            "Linea 7"
-        ],
-        "texto_alerta": "Acceso Renfe-AVE de la estación de Jesús, cerrado temporalmente por obras.Por obras del Ayuntamiento en la Avenida Giorgeta, el acceso de la estación de Jesús de la calle Rois de Corella permanecerá cerradoa partir del lunes día 10 de noviembre. Acceso por la calle Mora de Rubielos."
-    },
-    {
-        "lineas_afectadas": [
-            "Linea 4"
-        ],
         "texto_alerta": "Servicio a Fira València del 11 al 16 de noviembre. Consulta los horarios."
     },
     {
