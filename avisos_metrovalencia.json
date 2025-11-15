@@ -9,6 +9,12 @@
     },
     {
         "lineas_afectadas": [
+            "Línea 1"
+        ],
+        "texto_alerta": "Aviso L1: Los trenes de L1 circulan con retraso."
+    },
+    {
+        "lineas_afectadas": [
             "Linea 4"
         ],
         "texto_alerta": "Servicio a Fira València del 11 al 16 de noviembre. Consulta los horarios."
