@@ -1,12 +1,6 @@
 [
     {
         "lineas_afectadas": [
-            "Linea 4"
-        ],
-        "texto_alerta": "Aviso L4: Los tranvías circulan con retraso. Disculpen las molestias."
-    },
-    {
-        "lineas_afectadas": [
             "Linea 4",
             "Linea 6",
             "Linea 8"
