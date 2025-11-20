@@ -9,6 +9,12 @@
     },
     {
         "lineas_afectadas": [
+            "Linea 3"
+        ],
+        "texto_alerta": "Fútbol:Con motivo del partido que se celebrará en el estadio de Mestalla el sábado 21 a las 21:00 h, a la finalización del encuentro circulará un tren especial con paso por Benimaclet a las 23:25 h y con destino Rafelbunyol, como servicio adicional al servicio nocturno ordinario de los sábados.Consulta los horarios."
+    },
+    {
+        "lineas_afectadas": [
             "Linea 4"
         ],
         "texto_alerta": "Por obras, cambio de ubicación de la parada del tranvía de Empalmepara realizar el trayecto Empalme – Lloma Llarga Terramelar – EmpalmePor obras de renovación, a partir del viernes 21 de noviembre, los tranvías procedentes de Lloma Llarga – Terramelar con destino Empalme realizarán la última parada en laantigua Empalme 2situada unos metros antes de llegar a la estación de metro de transbordo.Del mismo modo, los tranvías con origen en Empalme y con destino LLoma Llarga Terramelar, realizarán su primera parada en la antigua parada deEmpalme 2. Este cambio estará señalizado en la propia estación. Disculpen las molestias."
