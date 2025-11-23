@@ -1,12 +1,6 @@
 [
     {
         "lineas_afectadas": [
-            "Linea 2"
-        ],
-        "texto_alerta": "Restablecida la circulación entre Les Carolines y Paterna. Los trenes circulan con retraso."
-    },
-    {
-        "lineas_afectadas": [
             "Linea 4",
             "Linea 6",
             "Linea 8"
