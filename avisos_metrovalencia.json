@@ -1,6 +1,12 @@
 [
     {
         "lineas_afectadas": [
+            "Linea 2"
+        ],
+        "texto_alerta": "Por vía interceptada, circulación interrumpida entre Les Carolines y Paterna"
+    },
+    {
+        "lineas_afectadas": [
             "Linea 4",
             "Linea 6",
             "Linea 8"
